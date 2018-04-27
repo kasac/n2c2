@@ -31,6 +31,7 @@ alpha, beta, etc. can be in greek as well
 categories separated by underlines
 if in braces, acronym of the previous
 if there is an s in the end, it can be removed
+'chelate' can be substituted by names of anionic amino acids
 _______________________________
 Fructo-oligosaccharides
 Galacto-oligosaccharides 
@@ -143,6 +144,18 @@ ___________________________________
 Curcumin
 FLAVONOIDS
 Anthocyanidins
+Echinacea
+St. John's Wort
+Valerian
+Hoodia
+Milk Thistle
+Saw Palmetto
+Ginkgo
+Ginseng
+Glucosamine
+Yohimbe
+
+Sambucus Elderberry 
 Flavanols
 flavonones
 Isothiocyanates
@@ -166,4 +179,110 @@ Tannic acid
 Allicin
 Chlorophyll and chlorophyllin
 Indole-3-carbinol
+______________________________
+Chromium nicotinate
+Chromium citrate
+High-chromium yeast
+Chromium chloride
+Chromium picolinate 
+
+Calcium carbonate
+Coral calcium
+Bio-calcium
+Rock calcium
+Calcium citrate
+calcium malate 
+Calcium magnesium citrate 
+Calcium lactate 
+calcium gluconate
+Calcium phosphate 
+Calcium oxide 
+calcium hydroxide 
+calcium supplement
+calcium orotate
+Calcium hydroxiapatite
+
+Potassium iodide
+
+Iron dextran 
+ferumoxytol 
+Ferric gluconate
+iron sucrose 
+
+Magnesium Ascorbate 
+Magnesium Citrate 
+Magnesium Citramate
+Potassium-magnesium citrate
+Magnesium Fumarate 
+Magnesium Gluconate 
+Magnesium Lactate 
+Magnesium Malate 
+Magnesium Pidolate 
+Magnesium Salicylate 
+Magnesium Threonate 
+Magnesium Chelate
+Magnesium Arginate 
+Magnesium L-Aspartate
+Magnesium Glutamate 
+Magnesium Glycinate 
+Magnesium Lysinate 
+Magnesium Orotate 
+Magnesium Taurate 
+Magnesium Taurinate 
+Inorganic magnesium 
+Magnesium Carbonate 
+Magnesium chloride
+Magnesium hydroxide 
+milk of magnesia
+Magnesium oxide
+Magnesium sulfate 
+Epsom salt 
+Enteric-coated Magnesium 
+magnesium acetate
+magnesium phosphate
+Magnesium stearate
+
+glucosamine hydrochloride
+Manganese gluconat
+manganese sulfate 
+manganese ascorbate
+
+Molybdenum
+Molybdenium
+
+sodium molybdate 
+ammonium molybdate
+
+sodium selenite 
+Na2SeO3
+sodium selenate
+Na2SeO4
+selenomethionine
+Selenium-enriched yeast
+
+Potassium chloride
+KCl Er
+EC KCl
+potassium bicarbonate
+potassium citrate 
+potassium gluconate
+Magnesium potassium aspartate
+Potassium orotate
+Potassium chelate
+Potassium acetate
+
+Zinc acetate
+zinc gluconate
+zinc-histidine
+zinc picolinate
+zinc sulfate
+
+Boric Anhydride
+Boric Tartrate
+Sodium Borate
+
+glutathion
+
+vanadyl sulfate 
+sodium metavanadate
 */
